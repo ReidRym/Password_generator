@@ -66,7 +66,12 @@ function writePassword(){
   pwTextArea.value =password;
   }
 
-
+//valid length and selected at least one character type, a unique password was not generated
+//Try and make use of console logs to find where the problem is originating in your code.
+//your repo quality needs some improvement. 
+//First, you should commit frequently and be descriptive in your commit messages.
+// Secondly, it is important to add comments to your code to make it easier to understand. 
+//Please add a README file that includes a quality description, a screenshot of the app, and a link to the deployed application.
 
 
 
