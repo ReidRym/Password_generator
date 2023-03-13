@@ -6,6 +6,6 @@ This application creates a randomly generated password based on user input choic
 ## Screen shot 
 
 ## live link
-
+https://reidrym.github.io/Password_generator/
 ## author 
 Ryan Reid 
